@@ -37,7 +37,8 @@ h4 { font-size: 28px;
 
 h6 { font-size: 14px;
     }
-ul { background:  #ffcc00; list-style-type: none;   
+ul { padding-left:2em; 
+    background:  #ffcc00; list-style-type: none;   
     color: black;
     }
 
