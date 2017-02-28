@@ -84,9 +84,10 @@ p {
 .twitterlink { color: #00b8e6;
    } 
 
-.article { border:2em;
+.article { 
+    margin-bottom: 2em;
+    margin-top: 2em;
    } 
 .floatleft { float:left;
    } 
-
 
