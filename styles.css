@@ -58,9 +58,7 @@ li  {display: inline;
 
 a:hover {font-weight: bold; } 
 
-.wopictures {float:right; 
-margin-right: 6em;
-outline-color:#ffcc00; } 
+.floatright {float:right; } 
 
 #chavismotab {font-weight:bolder;
 } 
