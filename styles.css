@@ -10,7 +10,8 @@ header {
     background: url(https://s-media-cache-ak0.pinimg.com/originals/1f/19/6e/1f196e0c30a7eb5bfc3731fc47c82aae.jpg);  
     color:#ffcc00;
     }
-.nonheader { 
+.nonheader {
+    margin-top: 2em;
     margin-left: 3em;
     margin-right: 3em;
     }
@@ -57,9 +58,8 @@ li  {display: inline;
 
 a:hover {font-weight: bold; } 
 
-.twitter {float:right; 
+.wopictures {float:right; 
 margin-right: 6em;
-outline-style: double;
 outline-color:#ffcc00; } 
 
 #chavismotab {font-weight:bolder;
@@ -77,9 +77,13 @@ p {
    margin-right: 10em;
     padding-top: 1em;
 } 
-.news {
-float:left
-} 
+
 
 .twitterlink { color: #00b8e6;
    } 
+
+.article { border:2em;
+   } 
+.floatleft { float:left;
+   } 
+
