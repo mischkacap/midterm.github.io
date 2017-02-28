@@ -1,3 +1,4 @@
+
 body {
     font-family: 'Arimo', sans-serif;  
     }
@@ -47,6 +48,8 @@ a:visited { text-decoration: none;
 a { text-decoration: none;   
     color:black;} 
 
+ul {margin-top: 2em;
+    } 
 li  {display: inline;  
     word-spacing: 30px;
     text-transform: uppercase; 
@@ -56,7 +59,8 @@ li  {display: inline;
     color: black;
     } 
 
-a:hover {font-weight: bold; } 
+a:hover {font-weight: bold;
+} 
 
 .floatright {float:right; } 
 
@@ -84,4 +88,5 @@ p {
    } 
 .floatleft { float:left;
    } 
+
 
